@@ -14,7 +14,7 @@ public static void main(String[] args){
      final String Name="Bangaranayaka";
      int Age=24; //Current Age
      final String Degree="Electronics and Communication Engineering"; //passed in the year 2020
-     String[] Learning={"Java","SpringBoot","DSA"};
+     String[] Learning={"Java", "SpringBoot", "DSA", "Microservices", "React JS"};
      
      }
   }
