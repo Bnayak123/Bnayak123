@@ -14,7 +14,7 @@ public static void main(String[] args){
      final String Name="Bangaranayaka";
      double experience=1.8; //Current Experience as a Java developer
      final String Degree="Electronics and Communication Engineering"; //passed in the year 2020
-     String[] Learning={"Java", "SpringBoot", "DSA", "Microservices", "React JS", "System Design"};
+     String[] skills={"Java", "SQL", "DSA", "SpringBoot", "Hibernate, "Rest APIs", "Microservices", "React JS", "System Design"};
      
      }
   }
