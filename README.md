@@ -19,7 +19,7 @@ public static void main(String[] args){
      }
   }
   ```
-# 💫 About Me:
+
 Check out my resume here :[My-Resume](https://drive.google.com/file/d/16E7qVcxAdOnhu0HqCGvyOhVxKNoAFQML/view)
 
 
