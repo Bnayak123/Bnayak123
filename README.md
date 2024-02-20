@@ -7,19 +7,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f-Bnayak123&color=blue" alt="Abu" /></h1> </p>
 
 
-```java
-public class Bangar_Nayak{
-
-public static void main(String[] args){
-     final String Name="Bangaranayaka";
-     double experience=2.6; //Current Experience as a Java developer
-     final String Degree="Electronics and Communication Engineering"; //passed in the year 2020
-     String[] skills={"Java", "SQL", "DSA", "SpringBoot", "Hibernate", "Rest APIs", "Microservices", "React JS", "System Design"};
-     
-     }
-  }
-  ```
-
 Check out my resume here :[My-Resume](https://drive.google.com/file/d/17i9qDI51S5U-J0pdBxugzYtXExzlvwoC/view?usp=drivesdk)
 
 # 💻 Tech Stack:
